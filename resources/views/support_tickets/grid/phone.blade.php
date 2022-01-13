@@ -1,0 +1,1 @@
+<a href="call:{{$phone}}" target="_blank"><i class="fa fa-phone"></i> {{$phone}}</a>

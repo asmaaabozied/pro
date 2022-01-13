@@ -1,0 +1,1 @@
+<div class="text-center" style="background: {{$background_color}}"><span style="color: white"><i class="fa {{$icon}}"></i></span></div>

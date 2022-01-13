@@ -1,0 +1,1 @@
+<img src="{{asset($image)}}" class="img-circle" height="50px" width="50px" onerror="this.onerror=null; this.src='{{asset('images/default-image.jpg')}}'"/>

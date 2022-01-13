@@ -1,0 +1,1 @@
+<div class="text-center" style="background: {{array_search($status, trans('cart.cart_status'))}}"><span style="color: white">{{$status}}</span></div>

@@ -1,0 +1,1 @@
+<div class="text-center" style="background: {{array_search($type, trans('supportTicket.types'))}}"><span style="color: white">{{$type}}</span></div>
